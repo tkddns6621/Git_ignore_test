@@ -104,3 +104,5 @@ replay_pid*
 # 경로는 porperties 에서 path를 복사해서 붙여넣어줌.
 /Git_ignore_test/src/main/webapp/WEB-INF/web.xml
 /Git_ignore_test/src/main/webapp/WEB-INF/Command.properties
+/Git_ignore_test/src/main/java/nocommit_some/NoCommit_5_right.java
+/Git_ignore_test/src/main/java/nocommit_some/NoCommit_6_mistake.java
