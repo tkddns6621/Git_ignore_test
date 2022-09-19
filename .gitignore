@@ -108,3 +108,4 @@ replay_pid*
 /Git_ignore_test/src/main/java/nocommit_some/NoCommit_6_mistake.java
 /Git_ignore_test/src/main/java/nocommit_some/NoCommit_7_untrack.java
 /Git_ignore_test/src/main/java/nocommit_some/NoCommit_7_untrack2.java
+/Git_ignore_test/src/main/java/unchanged_assume/Assume_unchanged_8.java
