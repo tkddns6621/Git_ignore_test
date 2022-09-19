@@ -97,4 +97,10 @@ replay_pid*
 
 ##### commit 제외파일 #####
 /Git_ignore_test/src/main/java/nocommit_all/
-/Git_ignore_test/src/main/java/nocommit_some/NoCommit_3.java
+/Git_ignore_test/src/main/java/nocommit_some/NoCommit_3.java 
+
+.classpath
+.gitignore
+# 경로는 porperties 에서 path를 복사해서 붙여넣어줌.
+/Git_ignore_test/src/main/webapp/WEB-INF/web.xml
+/Git_ignore_test/src/main/webapp/WEB-INF/Command.properties
